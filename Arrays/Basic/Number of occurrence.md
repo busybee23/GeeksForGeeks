@@ -1,3 +1,4 @@
+```
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -16,8 +17,9 @@ public:
 	    }return count ;
 	}
 };
+```
 
-
+```
 int main() {
     int t;
     cin >> t;
@@ -34,3 +36,4 @@ int main() {
     }
     return 0;
 }
+```
