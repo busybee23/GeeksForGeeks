@@ -1,6 +1,7 @@
 ## Median in a row-wise sorted Matrix 
 
 ### SOLUTION : 
+Video : https://youtu.be/edEKbe5B_68
 
 using namespace std; 
 class Solution{   
