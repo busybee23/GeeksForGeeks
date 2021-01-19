@@ -15,11 +15,12 @@ public:
 	   
 	   while(h>l)
 	   {
-	       if(S[l++]==S[h--])
-	        return 1;
+	       if(S[l++]!=S[h--])
+	        return 0;
 	   }
-	   return 0;
+	   return 1;
 	}
 
 };
+
 ```
