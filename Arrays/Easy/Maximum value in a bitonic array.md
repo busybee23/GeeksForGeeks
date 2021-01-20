@@ -1,6 +1,6 @@
 
 
-
+```
 //User function template for C++
 class Solution{
 public:
@@ -40,3 +40,4 @@ cout<<arr[n-1]<<endl;
 	}
 	return 0;
 }
+```
