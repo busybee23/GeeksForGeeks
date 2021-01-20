@@ -1,3 +1,4 @@
+```
 #include <bits/stdc++.h>
 using namespace std;
 int findExtra(int a[], int b[], int n);
@@ -29,3 +30,4 @@ int findExtra(int a[], int b[], int n)
         }
     }
 }
+```
