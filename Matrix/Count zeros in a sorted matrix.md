@@ -1,3 +1,4 @@
+```
 #include <iostream>
 using namespace std;
 #define MAX 1001
@@ -19,7 +20,9 @@ int main() {
 	}
 	return 0;
 }
+```
 
+```
 int countZeros(int A[MAX][MAX],int N)
 {   int sum = 0 ;
     for(int i=0; i<N; i++)
@@ -34,3 +37,4 @@ int countZeros(int A[MAX][MAX],int N)
     }
 return sum ;         
 }
+```
