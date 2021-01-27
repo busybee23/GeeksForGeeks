@@ -1,3 +1,4 @@
+```
 #include <iostream>
 #include <algorithm>
 
@@ -21,3 +22,4 @@ int main() {
 	    cout<<arr[K-1]<<endl;
 	}
 }
+```
